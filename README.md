@@ -1,6 +1,6 @@
 <div align="center">
 
-# ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Xin chào, mình là Perfidanb (Long)
+#<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="60"/> Xin chào, mình là Perfidanb (Long)
 
 <p>
   <a href="https://guns.lol/perfidanb">
