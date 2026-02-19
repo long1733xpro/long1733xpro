@@ -48,7 +48,7 @@ const perfidanb = {
 * 🔭 Đang phát triển: **Full-Stack Web Apps**
 * 🌱 Đang nghiên cứu: **Intrusion Prevention System**
 * ⚡ Triết lý: **"Just existing, not living."**
-* 🎯 Mục tiêu 2025: **Professional Developer**
+* 🎯 Mục tiêu 2026: **Professional Developer**
 
 </td>
 </tr>
