@@ -32,7 +32,7 @@
 const perfidanb = {
     name: "Long",
     alias: "Perfidanb",
-    code: ["TypeScript", "Python", "React"],
+    code: ["TypeScript", "Python", "JavaScript"],
     tools: ["Next.js", "Docker", "Linux"],
     passion: "Building Scalable Systems",
     status: "Always Learning 🚀"
