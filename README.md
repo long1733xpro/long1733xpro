@@ -60,7 +60,7 @@ const perfidanb = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-<a><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=long1733xpro&theme=default" /></a>
+<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=perfidanb&theme=blue_green" /></a>
 </div>
 
 ---
