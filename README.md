@@ -9,7 +9,7 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=perfidanb&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=perfidanb&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://trophygithubreadmelang.cybee.dpdns.org/?username=perfidanb&theme=darkhub)
 
 ---
 
