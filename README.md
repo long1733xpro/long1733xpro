@@ -1,22 +1,15 @@
-<div align="center">
 
-# ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Xin chào, mình là Perfidanb (Long)
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/1050399865533911120) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/longhuynhnt) 
 
-<p>
-  <a href="https://guns.lol/perfidanb">
-    <img src="https://img.shields.io/badge/Portfolio-Perfidanb-ff0055?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"/>
-  </a>
-  <a href="https://www.facebook.com/longhuynhnt/">
-    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://github.com/long1733xpro">
-    <img src="https://img.shields.io/github/followers/sangnekk?label=Followers&style=flat-square&color=black&logo=github" alt="GitHub Followers"/>
-  </a>
-</p>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=perfidanb&theme=dark&hide_border=false&include_all_commits=false&count_private=false) ![](https://streak-stats.demolab.com/?user=perfidanb&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=perfidanb&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img src="https://komarev.com/ghpvc/?username=long1733xpro&label=PROFILE%20VIEWS&color=ff0055&style=plastic" alt="Profile Views" />
-
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=perfidanb&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
@@ -57,48 +50,17 @@ const perfidanb = {
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=perfidanb&theme=blue_green" /></a>
-</div>
-
----
-
-## 👾 Connect
-
-<div align="center">
-
-<a href="https://discord.com/users/1050399865533911120">
-  <img 
-    src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxsG72wAo9EWJR4yQWyJJaDaK1XdUso6cUMpI9hAdPUU_FNs11cY1X284vsHrnWtRw7oqRpN1m9YAg21d_aNKnIo-&format=source&h=170"
-    alt="Discord"
-    width="40"
-  >
-</a>
-
-<a href="https://www.facebook.com/longhuynhnt">
-  <img 
-    src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png"
-    alt="Facebook"
-    width="40"
-  >
-</a>
-
----
-
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
-<i>"Code with passion, build with purpose."</i>
-
-
-
-
-
-<sub>Designed by Perfidanb (Long)</sub>
+                                       Code with passion, build with purpose.
 
 </div>
 
-```
+---
+[![](https://komarev.com/ghpvc/?username=perfidanb&icon=0&color=0)](https://visitcount.itsvg.in)
 
-```
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.com/paypalme/longhuynhnt) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
